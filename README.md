@@ -96,7 +96,7 @@ Build the supplied CSV in Tableau Public or Power BI.
 
 See `dashboard/DASHBOARD_BUILD_GUIDE.md` for calculated fields and layout.
 
-## Interview Explanation
+## Project Description
 > I built a synthetic procurement analytics project around a common supply-chain problem: determining whether suppliers are performing against both cost and delivery expectations. I calculated purchase-price variance, analyzed on-time delivery, developed an explainable supplier-risk score, and added a what-if negotiation model. Python handles the analysis, SQL answers core business questions, and the dataset is designed for an executive Tableau or Power BI dashboard.
 
 ## Next Improvements
